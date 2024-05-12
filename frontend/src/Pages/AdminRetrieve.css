@@ -1,0 +1,17 @@
+.dashboard-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2vh 5vw;
+    margin-top: 3vh;
+}
+
+#table-container{
+    padding: 2vh 3vw;
+    margin-top: 6vh;
+}
+
+.action-btns{
+    display: flex;
+    gap: 10px;
+}
